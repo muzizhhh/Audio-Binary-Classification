@@ -8,3 +8,6 @@ There are 7 models applied for this competition of audio binary classification.
 5.	Spectrogram and 2D_CNN;
 6.	LSTM;
 7.	VAE and Random Forest Classifier.
+
+The Rank of model performances: 
+Spectrogram and 2D_CNN > 1D_CNN applied with data enhancement > 1D_CNN > 2D_CNN > LSTM > 1D_CNN applied with Data Augmentation > VAE and Random Forest Classifier. 
